@@ -1,22 +1,4 @@
-/* box-shadow: -8px -8px 15px rgb(255, 255, 255, 0.1),
-    5px 5px 15px rgb(0, 0, 0, 0.2);
-    
-   .btn {
-  border: 0;
-  outline: 0;
-  padding: 10px 50px;
-  background-color: #fff;
-  font-size: 22px;
-  font-weight: bold;
-  cursor: pointer;
-  border-radius: 8px;
-  letter-spacing: 1.3px;
-  color: #6fd649;
-  box-shadow: -8px -8px 15px rgb(255, 255, 255, 0.1),
-    5px 5px 15px rgb(0, 0, 0, 0.2);
-  border: 2px solid #6fd649;
-}
-    */
+ 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
 * {
   margin: 0;
